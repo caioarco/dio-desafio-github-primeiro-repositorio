@@ -1,0 +1,45 @@
+C:\workspace\GFT Start#2\bin\Debug\net6.0\Projeto OB RPG.exe
+C:\workspace\GFT Start#2\bin\Debug\net6.0\Projeto OB RPG.deps.json
+C:\workspace\GFT Start#2\bin\Debug\net6.0\Projeto OB RPG.runtimeconfig.json
+C:\workspace\GFT Start#2\bin\Debug\net6.0\Projeto OB RPG.dll
+C:\workspace\GFT Start#2\bin\Debug\net6.0\Projeto OB RPG.pdb
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.csproj.AssemblyReference.cache
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.AssemblyInfoInputs.cache
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.AssemblyInfo.cs
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.csproj.CoreCompileInputs.cache
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.dll
+C:\workspace\GFT Start#2\obj\Debug\net6.0\refint\Projeto OB RPG.dll
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.pdb
+C:\workspace\GFT Start#2\obj\Debug\net6.0\Projeto OB RPG.genruntimeconfig.cache
+C:\workspace\GFT Start#2\obj\Debug\net6.0\ref\Projeto OB RPG.dll
+C:\workspace\GFT Start2\bin\Debug\net6.0\Projeto OB RPG.exe
+C:\workspace\GFT Start2\bin\Debug\net6.0\Projeto OB RPG.deps.json
+C:\workspace\GFT Start2\bin\Debug\net6.0\Projeto OB RPG.runtimeconfig.json
+C:\workspace\GFT Start2\bin\Debug\net6.0\Projeto OB RPG.dll
+C:\workspace\GFT Start2\bin\Debug\net6.0\Projeto OB RPG.pdb
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.csproj.AssemblyReference.cache
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.AssemblyInfoInputs.cache
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.AssemblyInfo.cs
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.csproj.CoreCompileInputs.cache
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.dll
+C:\workspace\GFT Start2\obj\Debug\net6.0\refint\Projeto OB RPG.dll
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.pdb
+C:\workspace\GFT Start2\obj\Debug\net6.0\Projeto OB RPG.genruntimeconfig.cache
+C:\workspace\GFT Start2\obj\Debug\net6.0\ref\Projeto OB RPG.dll
+C:\workspace\GFT Start - Desafio RPG\bin\Debug\net6.0\Projeto OB RPG.exe
+C:\workspace\GFT Start - Desafio RPG\bin\Debug\net6.0\Projeto OB RPG.deps.json
+C:\workspace\GFT Start - Desafio RPG\bin\Debug\net6.0\Projeto OB RPG.runtimeconfig.json
+C:\workspace\GFT Start - Desafio RPG\bin\Debug\net6.0\Projeto OB RPG.dll
+C:\workspace\GFT Start - Desafio RPG\bin\Debug\net6.0\Projeto OB RPG.pdb
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.csproj.AssemblyReference.cache
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.AssemblyInfoInputs.cache
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.AssemblyInfo.cs
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.csproj.CoreCompileInputs.cache
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.dll
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\refint\Projeto OB RPG.dll
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.pdb
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\Projeto OB RPG.genruntimeconfig.cache
+C:\workspace\GFT Start - Desafio RPG\obj\Debug\net6.0\ref\Projeto OB RPG.dll
