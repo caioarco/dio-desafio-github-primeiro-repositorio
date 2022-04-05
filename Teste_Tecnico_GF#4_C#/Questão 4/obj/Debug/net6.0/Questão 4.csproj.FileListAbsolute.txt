@@ -1,0 +1,15 @@
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.csproj.AssemblyReference.cache
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.AssemblyInfoInputs.cache
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.AssemblyInfo.cs
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.csproj.CoreCompileInputs.cache
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\bin\Debug\net6.0\Questão 4.exe
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\bin\Debug\net6.0\Questão 4.deps.json
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\bin\Debug\net6.0\Questão 4.runtimeconfig.json
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\bin\Debug\net6.0\Questão 4.dll
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\bin\Debug\net6.0\Questão 4.pdb
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.dll
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\refint\Questão 4.dll
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.pdb
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\Questão 4.genruntimeconfig.cache
+C:\workspace\Teste_Tecnico_GF#4_C#\Questão 4\obj\Debug\net6.0\ref\Questão 4.dll
